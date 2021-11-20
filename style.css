@@ -1,0 +1,21 @@
+@charset "UTF-8"
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black;
+}
+.form{
+    background-color:rgb(59, 59, 59);
+    color:white;
+    border-radius: 15px;
+    width: 650px;
+    text-align: center;
+    margin:0 auto;
+    padding: 25px
+}
+.input{
+
+}
